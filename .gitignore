@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Production / Build
+dist/
+dist-ssr/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env*.local
+
+# Editor directories
+.vscode/
+.idea/
+.DS_Store
